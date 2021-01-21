@@ -1,0 +1,19 @@
+﻿  Main.cpp
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(57,23): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(67,23): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(76,23): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(89,25): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(94,25): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(115,25): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(120,25): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(143,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(179,22): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(208,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(242,23): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(252,23): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(261,23): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(274,25): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(279,25): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(300,25): warning C4018: '<': signed/unsigned mismatch
+D:\juegos\Snake Game - copia\Snake Game\Main.cpp(305,25): warning C4018: '<': signed/unsigned mismatch
+  Snake Game.vcxproj -> D:\juegos\Snake Game - copia\Debug\Snake Game.exe

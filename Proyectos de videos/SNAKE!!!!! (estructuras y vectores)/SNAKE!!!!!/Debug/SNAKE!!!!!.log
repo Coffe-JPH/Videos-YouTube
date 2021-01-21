@@ -1,0 +1,24 @@
+﻿  ELNOMBREQUEQUIERAS.cpp
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(62,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(97,50): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(102,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(105,50): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(109,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(116,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(158,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(205,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(215,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(224,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(237,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(242,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(263,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(268,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(309,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(319,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(328,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(341,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(346,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(367,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hidal\source\repos\SNAKE!!!!!\SNAKE!!!!!\ELNOMBREQUEQUIERAS.cpp(372,24): warning C4018: '<': signed/unsigned mismatch
+  SNAKE!!!!!.vcxproj -> C:\Users\hidal\source\repos\SNAKE!!!!!\Debug\SNAKE!!!!!.exe
